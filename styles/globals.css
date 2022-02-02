@@ -14,3 +14,19 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.form-group span {
+  display: flex;
+  margin-bottom: 2rem;
+}
+
+.form-group label {
+  width: 100px;
+  text-align: right;
+  padding: 5px 10px 5px 5px;
+}
+
+.form-group div {
+  display: flex;
+  padding: 5px 0;
+}
